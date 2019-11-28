@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "title": "Getting an A for an Z",
+      "date": "2019-11-15T22:30:23.000Z",
+      "id": "880f8166-a291-4379-a9c9-144f82f2f8a7"
+    },
+    {
+      "title": "Another Story To Tell",
+      "date": "2019-11-16T22:50:00.000Z",
+      "id": "6d4005a4-c7e2-4245-93f1-e86a17ae54c1"
+    },
+    {
+      "title": "A bunch of stuff to do",
+      "date": "2019-11-20T22:50:28.000Z",
+      "id": "d1a06998-5991-49a4-b435-25b3e7de54da"
+    },
+    {
+      "title": "Wonder what it is",
+      "date": "2019-11-22T08:20:42.000Z",
+      "id": "e52b5604-ffcf-4eb3-838c-6ba4353147ef"
+    }
+  ]
+}
